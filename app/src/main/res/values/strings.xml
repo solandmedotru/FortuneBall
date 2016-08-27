@@ -2,4 +2,6 @@
     <string name="app_name">Fortune Ball</string>
     <string name="fortune_description">Suggest the question, which you can answer “yes” or “no”,
         then click on the magic ball.</string>
+    <string name="cristal_image">Cristal image</string>
+    <string name="what_s_my_fortune">What\'s my fortune?</string>
 </resources>
